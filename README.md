@@ -1,2 +1,3 @@
 # dotfiles
-:gear: Some of my dotfiles (mainly for vimrc)
+
+Just some of my dotfiles, and configuration for safekeeping!
